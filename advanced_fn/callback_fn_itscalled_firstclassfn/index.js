@@ -5,7 +5,7 @@ const sumal_Letters = (letters) => {
 
 const big_Letters = (letters) => {
   const [first, ...others] = letters.split(" ");
-  console.log(first.toUpperCase(), ...others);
+  console.log(first.toUpperCase(), others.join(" "));
 };
 
 //Higher order fn
