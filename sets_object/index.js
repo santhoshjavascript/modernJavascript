@@ -1,4 +1,4 @@
-//When ever you dont want to dublicate array , object , string what evevr data types means we wii you it set Object
+//When ever you dont want to dublicate array , object , string what evevr data types means we will use it set Object
 
 //Here some dublicate Values here
 let routine = ["wakeUp", "food", "studey", "food", "studey", "sleep"];

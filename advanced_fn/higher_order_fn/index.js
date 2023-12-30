@@ -16,3 +16,4 @@ const transform = (string, fn) => {
 //argument ulla erukkra fn aha call back function solluvom after etha higher order fn solluvom
 transform(" Hello IM TRYING TO MAKE EVRTHING IN LOWER CASE ", sumal_Text);
 transform("world everhing will be okay ", big_Text);
+

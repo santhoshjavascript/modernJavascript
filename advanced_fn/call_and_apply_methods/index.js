@@ -25,6 +25,10 @@ const object_Three = {
   status: "Middle",
 };
 
+//Compare to Below Its Worst Way
+object_One.method = main_Object.method;
+console.log(object_One.method("santhosh", 19));
+
 // function aha varaible ku set pa=num pothu antha variable run aka kudathuna () call panna kudathu
 const stored = main_Object.method;
 // stored("santhosh", 21);
